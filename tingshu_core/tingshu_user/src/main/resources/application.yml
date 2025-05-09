@@ -77,7 +77,6 @@ spring:
 wechat:
   login:
     #小程序授权登录
-    appId: wxeaa588abf88abc38  # 小程序微信公众平台appId
-    appSecret: 63036f99e07ca355a16b59f8edc1aad0 # 小程序微信公众平台api秘钥
-#    appId: wx6d56a9063db39f63
-#    appSecret: b04da85d6e5f6850ba816ef4814290eb
+    appId: # 小程序微信公众平台appId
+    appSecret:  # 小程序微信公众平台api秘钥
+

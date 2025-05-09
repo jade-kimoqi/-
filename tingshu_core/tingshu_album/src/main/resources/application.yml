@@ -76,14 +76,7 @@ minio:
   access-key: enjoy6288
   secret-key: enjoy6288
   bucket-name: tingshu
-vod:
-  appId: 1349300390
-  secretId: AKID81nLjwwjIdw7A0c0DLYcWQFvZyGNHRZU
-  secretKey: mLhroZ5RaZMxLWUEl4A3ibOC3tobGk27
-  region: ap-guangzhou
-  procedure: SimpleAesEncryptPreset #任务流
-  tempPath: C:\tempTrackPath
-  playKey: wrTwwu8U3DRSRDgC8l7q  #播放加密key
+ #播放加密key
 #vod:
 #  appId:
 #  secretId:
